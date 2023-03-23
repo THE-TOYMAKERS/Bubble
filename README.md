@@ -2,6 +2,14 @@
 
 <b>A new social networking platforms that makes event organization with friends and meeting new people easy!</b>
 
+To run:
+clone repo
+run npm install
+install expo cli
+install any other dependencies in the package-lock json
+npm start
+view on expo app
+
 <b>Function:</b>
 <ul>
   <li>Create a "bubble" of your closest five friends who live nearby (through magic link) and have access to each others location and status</li>
@@ -21,3 +29,5 @@
   <img src="https://user-images.githubusercontent.com/46610295/187345867-808e8f9e-40de-403b-9b1e-39df9b82f065.PNG" width="250"></img>
   <img src = "https://user-images.githubusercontent.com/46610295/187345865-e5ae0d39-cb99-4dc4-bb25-5d3e6abf914f.PNG" width = "250"></img>
 <div>
+
+  

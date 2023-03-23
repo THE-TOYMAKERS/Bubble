@@ -1,0 +1,11 @@
+to run
+
+clone repo
+
+run npm install 
+
+install the other dependencies in the package-lock json file
+
+npm start
+
+text with expo app
